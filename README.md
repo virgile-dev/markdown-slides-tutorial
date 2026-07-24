@@ -19,8 +19,12 @@ Click on sign in and on the orange button that says `Sign in with IETF DataTrack
 
 The nice thing about this approach is you can collaborate in real time.
 To create slides out of your content you just need need to add `---` between your lines.
-Example: (the backspace between `---` and your content is necessary so it renders as slides) 
-The following presentation, will produce the following [result](https://pad.numerique.gouv.fr/p/wn5368DC0#/).
+
+Example: 
+The markdown text bellow will produce the following [presentation](https://pad.numerique.gouv.fr/p/wn5368DC0#/).
+⚠️ the blank line between `---` and your content is necessary so it renders as slides
+
+
 ```
 # Slide title
 
